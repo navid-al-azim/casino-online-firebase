@@ -1,0 +1,775 @@
+body {
+  background-color: #f2f2f2;
+}
+.roboto-regular {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.roboto-medium {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.roboto-bold {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.roboto-black {
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.online-casino-data {
+  color: aliceblue;
+  text-align: center;
+}
+.online-casino-data h3 {
+  color: aliceblue;
+  font-size: 26px;
+  padding-bottom: 100px;
+}
+
+.online-casino-data p {
+  padding: 5% 0%;
+}
+.online-casino-data h1 {
+  margin-top: 6%;
+}
+
+.footer-link{
+  color: white;
+}
+
+.footer-link ul {
+  list-style: none;
+  padding-left: 0px;
+}
+.footer-link ul li a {
+  text-decoration: none;
+}
+.visa-data {
+  padding: 1% 0px;
+}
+.visa-data img {
+  width: 50%;
+  height: 97%;
+}
+.visa-data2 img {
+  width: 30%;
+  height: 90%;
+}
+.eightPlusData img {
+  width: 11%;
+  height: 17%;
+}
+.eightPlus {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.eightPlusData {
+  display: flex;
+}
+.eightPlusData p {
+  font-size: 11px;
+  padding-top: 3%;
+  margin-left: 2%;
+}
+.bg-color-one {
+  background-color: rgb(37, 37, 37);
+}
+.bg-color-two {
+  background-color: #ffffff;
+}
+
+.footer-link h5 {
+  font-size: 18px;
+}
+
+.p1 {
+  padding: 3% 0px;
+}
+
+.bg-purple {
+  background-color: #25056b;
+}
+
+.top-casino-data-area {
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.rate {
+  display: flex;
+  justify-content: space-around;
+}
+
+.win {
+  text-align: center;
+}
+.win h4 {
+  font-size: 14px;
+}
+
+.top-casino-data-area {
+  background-color: #ffffff;
+  padding-bottom: 10px;
+}
+
+.bg-color-one {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.payment-img img {
+  width: 15px;
+  height: 15px;
+  display: inline-block;
+  margin: 10px 5px;
+}
+.top-casino-playNow {
+  background-color: #f2f2f4;
+  margin: 0px 15px;
+  border-radius: 5px;
+}
+
+.top-casino-playNow a {
+  display: block;
+  text-decoration: none;
+}
+.button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 0px;
+}
+.top-casino-playNow .btn {
+  width: 65%;
+  padding: 3% 30px;
+  border-radius: 25px;
+  background-color: #09b161;
+  font-size: 15px;
+  color: #f2f2f2;
+  transition: all linear 0.5s;
+  margin-top: 20px;
+}
+
+.review {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #25056b;
+  font-size: 14px;
+  padding-bottom: 10px;
+}
+
+.top-casino-playNow .btn:hover {
+  background-color: #1a8d55;
+}
+
+.top-casino-header {
+  padding: 15px 0px;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+}
+
+.welcome-package h4 {
+  font-size: 15px;
+  padding: 15px 0px;
+  color: #5f2fc7;
+  margin: 0px;
+}
+.welcome-package h2 {
+  font-size: 25px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
+.top-casino-body .rate {
+  margin-top: 30px;
+}
+.top-casino-body .rate .win h4 {
+  font-size: 12px;
+  color: #868484;
+}
+.top-casino-body .rate .win h5 {
+  font-size: 13px;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.top-casino-payment h3 {
+  font-size: 12px;
+  margin-top: 14px;
+  color: #868484;
+}
+
+.top-casino {
+  position: relative;
+  top: -81px;
+}
+
+.bg-3 {
+  background-color: #1b2b38;
+}
+.bg-4 {
+  background-color: #10212a;
+}
+
+.best-casino h2 {
+  font-size: 30px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
+.best-casino p {
+  font-size: 14px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.mt-10 {
+  margin-top: 100px;
+}
+.mt-50 {
+  margin: 50px 0px;
+}
+.review-data {
+  color: #f2f2f2;
+}
+.review-data h1 {
+  font-size: 40px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+  padding-top: 90px;
+}
+.review-data h3 {
+  font-size: 30px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  padding-top: 30px;
+}
+.review-data p {
+  font-size: 16px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  padding-top: 30px;
+}
+
+.proAndCon-data-area {
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding: 30px;
+}
+
+.like ul li {
+  font-size: 14px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  padding-bottom: 10px;
+}
+
+.pro-head {
+  font-size: 18px;
+  padding-left: 20px;
+  padding-top: 20px;
+}
+.proAndCon-data-area h1 {
+  font-size: 30px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  padding-left: 20px;
+  padding-top: 20px;
+}
+
+.proAndCon-data-area {
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding: 18px;
+  margin-top: 60px;
+}
+
+.game-provider {
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding: 18px;
+  margin-top: 60px;
+}
+
+.game-data h2 {
+  font-size: 14px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  margin-top: 15px;
+}
+.game-data p {
+  font-size: 14px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  margin-top: 15px;
+}
+
+.game-data-payment img {
+  margin-right: 10px;
+}
+.game-data-payment ul {
+  margin: 0px;
+  padding: 0px;
+  font-size: 14px;
+}
+.game-data-payment ul li a {
+  text-decoration: none;
+  color: black;
+}
+.game-data-payment ul li {
+  display: inline-block;
+  padding-right: 10px;
+}
+.dot {
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  background-color: #0c09b1;
+  color: black;
+  display: inline-block;
+  text-align: center;
+  font-size: 10px;
+}
+
+.action-data-img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-color: rgb(46, 68, 38);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.casino-action {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.action-button {
+  background-color: #09b161;
+  padding: 11px 74px;
+  border-radius: 14px;
+  color: #f2f2f2;
+}
+.button a {
+  text-decoration: none;
+}
+
+.casino-full-data {
+  color: #f2f2f2;
+}
+
+.bg-action {
+  background-color: #1b2b38;
+  padding: 50px 0px;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+}
+
+.casino-full-data h4 {
+  font-weight: 400;
+  padding: 30px 0px 20px 0px;
+}
+.casino-full-data h2 {
+  font-weight: 900;
+  padding: 10px 0px 20px 0px;
+}
+
+.everyThing h2 {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 900;
+}
+
+.dot {
+  width: 11px;
+  height: 11px;
+  border-radius: 50%;
+  background-color: #07063a;
+  color: black;
+  display: inline-block;
+  text-align: center;
+  font-size: 10px;
+}
+
+.facts-head p {
+  font-size: 26px;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  margin-bottom: 30px;
+}
+
+.facts-head .icon {
+  color: #eb9d0d;
+}
+
+.facts {
+  margin-top: 30px;
+
+  background-color: #fff;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 9px rgb(63 63 63 / 23%);
+}
+
+.facts2 {
+  margin-top: 30px;
+  background-color: #fff;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 9px rgb(63 63 63 / 23%);
+}
+
+.data-area-facts {
+  display: flex;
+  justify-content: space-between;
+  background-color: #f2f2f2;
+  padding: 10px 10px;
+
+  border-radius: 10px;
+}
+.data-area-facts2 {
+  display: flex;
+  justify-content: space-between;
+  background-color: #ffffff;
+  padding: 10px 10px;
+  font-size: 12px;
+  border-radius: 10px;
+}
+
+.data-area-facts img {
+  background-color: #07063a;
+}
+.data-area-facts h5 {
+  font-size: 16px;
+}
+.data-area-facts h3 {
+  font-size: 16px;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 900;
+}
+.data-area-facts2 h5 {
+  font-size: 16px;
+}
+.data-area-facts2 h3 {
+  font-size: 16px;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 900;
+}
+.facts-head .para-data-area {
+  font-size: 15px;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.mt-30 {
+  margin-top: 30px;
+}
+.mt-100 {
+  margin-top: 100px;
+}
+
+.content-link-page {
+  position: sticky !important;
+  top: 20px;
+  margin-left: 50px;
+}
+.content-link-page h4 {
+  font-size: 19px;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+}
+.content-link-page ul {
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+}
+.content-link-page ul li {
+  padding: 5px 0px;
+}
+.content-link-page ul li a {
+  padding: 5px 0px;
+  text-decoration: none;
+}
+
+.game-data img {
+  width: 25px;
+  height: 25px;
+  margin-right: 10px;
+}
+
+@media (min-width: 1400px) {
+  .container,
+  .container-lg,
+  .container-md,
+  .container-sm,
+  .container-xl,
+  .container-xxl {
+    max-width: 1050px;
+  }
+}
+
+.welcome-package h2 {
+  font-size: 18px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.welcome-package h4 {
+  font-size: 15px;
+  padding: 15px 0px;
+  color: #5f2fc7;
+  margin: 0px;
+}
+
+.top-casino-body .rate {
+  margin-top: 25px;
+}
+
+.review-data h1 {
+  font-size: 35px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+  padding-top: 90px;
+}
+
+.review-data h3 {
+  font-size: 30px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  padding-top: 10px;
+}
+
+mb-50 {
+  margin-bottom: 50px;
+}
+
+.online-casino-data2 h2 {
+  font-size: 30px;
+  color: #f2f2f4;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  padding-top: 40px;
+  margin-bottom: 0px;
+}
+.online-casino-data2 p {
+  font-size: 15px;
+  color: #f2f2f4;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  padding-top: 20px;
+  padding-bottom: 60px;
+  margin-bottom: 0px;
+}
+
+.online-casino-data2 {
+  text-align: center;
+}
+
+.fqa-data p {
+  font-size: 30px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  padding: 2% 0px;
+}
+
+.new-casino p {
+  text-align: left;
+  padding: 40px 0px;
+}
+
+.new-casino h2 {
+  font-size: 24px;
+  margin-top: 30px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+}
+
+.new-casino .facts p {
+  padding: 0px;
+}
+
+.casino-img-data {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+}
+
+.casino-img-data img {
+  width: 60%;
+  height: 60%;
+}
+
+.new-casino h5 {
+  color: #f2f2f4;
+  padding: 25px 0px 20px;
+  font-size: 24px;
+}
+
+.pb-50 {
+  padding-bottom: 50px;
+}
+
+.color {
+  color: white;
+  padding: 20px 0px;
+}
+
+.facts2 .headerTitle {
+  font-size: 18px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  padding: 0px;
+  margin-bottom: 10px;
+}
+.facts2 .para-data-area {
+  padding: 0px;
+  margin-bottom: 0px;
+}
+
+.color-gry h2 {
+  color: gray;
+}
+.color-gry p {
+  color: gray;
+}
+
+.color2 {
+  color: #1c1c1d;
+}
+.facts-head .para-data-area {
+  font-size: 15px;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  margin-bottom: 0px;
+}
+
+.navbar-nav .nav-itam li a {
+  font-size: 20px;
+  text-transform: capitalize;
+  font-weight: bold;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: #292929;
+  font-size: 40px;
+  text-transform: capitalize;
+  font-weight: bold;
+}
+
+#show-more-btn {
+  background: none;
+  border: none;
+  font-weight: bold;
+  color: #0c09b1;
+  font-size: larger;
+  margin-bottom: 15px;
+}
+
+.arrowSign {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.icon_show_more {
+  padding-left: 10px;
+}
+
+.facts-head p {
+  font-size: 20px;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.facts-head p {
+  font-size: 20px;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  margin-bottom: 1px;
+  padding-top: 10px;
+}
+
+.facts-head .para-data-area {
+  font-size: 17px;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  margin-bottom: 0px;
+  margin-top: 13px;
+}
+
+.nav-link {
+  display: block;
+  padding: var(--bs-nav-link-padding-y) var(--bs-nav-link-padding-x);
+  font-size: var(--bs-nav-link-font-size);
+  font-weight: var(--bs-nav-link-font-weight);
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+  background: 0 0;
+  border: 0;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
+    border-color 0.15s ease-in-out;
+  text-transform: capitalize !important;
+  font-size: medium;
+  font-weight: 600;
+}
+
+.dropdown-item {
+  display: block;
+  width: 100%;
+  padding: var(--bs-dropdown-item-padding-y) var(--bs-dropdown-item-padding-x);
+  clear: both;
+  font-weight: 400;
+  color: var(--bs-dropdown-link-color);
+  text-align: inherit;
+  text-decoration: none;
+  white-space: nowrap;
+  background-color: transparent;
+  border: 0;
+  border-radius: var(--bs-dropdown-item-border-radius, 0);
+  font-size: inherit;
+  font-weight: 600;
+  
+}
+
+.bg-blue {
+  background-color: #c9580c;
+}
